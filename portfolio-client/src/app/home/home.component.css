@@ -1,0 +1,9 @@
+:host {
+    #home-container{
+    
+    ::ng-deep .p-card {
+        max-width: 40%;
+
+    }
+    }
+}
